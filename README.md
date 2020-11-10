@@ -41,7 +41,7 @@
 
 <br />
 <br />
-<img align="left" alt="Hamza Yousuf's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aqibmemon01show_icons=true&theme=radical&hide_border=false" />
+<img align="left" alt="Hamza Yousuf's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aqibmemon01&show_icons=true&theme=radical&hide_border=false" />
 
 <img align="left" alt="Hamza Yousuf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmemon01&layout=compact&theme=radical&hide_border=false" />
 
