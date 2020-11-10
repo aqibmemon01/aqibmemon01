@@ -1,6 +1,6 @@
-### Hi there, I'm Hamza Yousuf [E-Portfolio][website] 👋
+### Hi there, I'm Abu Bakar [E-Portfolio][website] 👋
 
-## I'm Student, Developer and Open Source Contributor!
+## I'm Student and Developer and Open Source Contributor!
 - 🔭 I’m currently working in [Cybein Company][cybeincwebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -47,7 +47,7 @@
 
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
-[website]: https://sites.google.com/view/hamzaeportfolio
+[website]: https://github.com/aqibmemon01
 [cybeincwebsite]: https://cybeinc.com/
 [twitter]: https://twitter.com/HamzaYo62781878
 [youtube]: https://www.youtube.com/channel/UCjIDnm8ruLfiyBzijqGUlmQ
