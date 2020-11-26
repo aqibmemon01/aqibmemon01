@@ -1,7 +1,7 @@
 ### Hi there, I'm Abu Bakar [E-Portfolio][website] 👋
 
 ## I'm Student and Developer and Open Source Contributor!
-- 🔭 I’m currently working in [Cybein Company][cybeincwebsite]!
+- 🔭 I’m currently working in Memon Garments!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -47,9 +47,8 @@
 
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
-[website]: https://github.com/aqibmemon01
-[cybeincwebsite]: https://cybeinc.com/
-[twitter]: https://twitter.com/HamzaYo62781878
-[youtube]: https://www.youtube.com/channel/UCjIDnm8ruLfiyBzijqGUlmQ
-[instagram]: https://www.instagram.com/hamzayousuf121/
-[linkedin]: https://www.linkedin.com/in/hamzayousuf121/
+[website]: https://abubakar.surge.sh/
+[twitter]: https://twitter.com/aqibmemon
+[youtube]: https://www.youtube.com/channel/aqibmemon01
+[instagram]: https://www.instagram.com/aqibbmj/
+[linkedin]: https://www.linkedin.com/in/aqibmemon01/
