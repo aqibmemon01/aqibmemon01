@@ -1,7 +1,7 @@
 ### Hi there, I'm Abu Bakar [E-Portfolio][website] 👋
 
 ## I'm Student and Developer and Open Source Contributor!
-- 🔭 I’m Owner of Memon Garments!
+- 🔭 I’m currently working in Miletap!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
