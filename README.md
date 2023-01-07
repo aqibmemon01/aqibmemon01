@@ -1,4 +1,4 @@
-### Hi there, I'm Abu Bakar [E-Portfolio][website] 👋
+### Hi there, I'm Abu Bakar 👋
 
 ## I'm Senior Mern Stack Engineer.
 - 🔭 I’m currently working in Tekrevol as a Senior Mern Stack Engineer!
