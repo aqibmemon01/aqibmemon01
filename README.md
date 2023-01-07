@@ -1,10 +1,10 @@
 ### Hi there, I'm Abu Bakar [E-Portfolio][website] 👋
 
-## I'm Mern Stack Developer.
-- 🔭 I’m currently working in Miletap!
+## I'm Senior Mern Stack Engineer.
+- 🔭 I’m currently working in Tekrevol as a Senior Mern Stack Engineer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Cricket, Music and Outing with Friends
 
 ### Connect with me:
