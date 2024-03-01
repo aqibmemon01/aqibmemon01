@@ -39,7 +39,7 @@
 <br />
 <!--<img align="left" alt="Hamza Yousuf's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aqibmemon01&show_icons=true&theme=radical&hide_border=false" />
 -->
-<img align="right" alt="Abubakar Memon Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmemon01&layout=compact&theme=radical&hide_border=false" />
+<img align="left" alt="Abubakar Memon Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibmemon01&layout=compact&theme=radical&hide_border=false" />
 
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
