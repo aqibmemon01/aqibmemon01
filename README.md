@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Code-MERN%20Stack-blue?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Focus-SaaS%20%26%20Enterprise%20Apps-orange?style=for-the-badge&logo=vercel" />
   <img src="https://img.shields.io/badge/Tech%20Lead-ARC-green?style=for-the-badge&logo=microsoft" />
-  <img src="https://img.shields.io/badge/Founder-Yuplify-ff69b4?style=for-the-badge&logo=shopify" />
+  <img src="https://img.shields.io/badge/Founder-Yuplify-ff69b4?style=for-the-badge&logo=yuplify" />
   <img src="https://komarev.com/ghpvc/?username=aqibmemon01&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
